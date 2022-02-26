@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/alejgd/](https://www.linkedin.com/in/alejgd/)
+[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/alejgd/" style="padding-right:10px;" />](https://www.linkedin.com/in/alejgd/)
 
 ### Languages and Tools:
 
