@@ -8,17 +8,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://alejgd.dev#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://alejgd.dev#gh-dark-mode-only)
+<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/alejgd/" style="padding-right:10px;" />
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AleJGD1#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AleJGD1#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alejgd#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alejgd#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/alejandrogonzalezdu#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/alejandrogonzalezdu#gh-dark-mode-only)
 
 ### Languages and Tools:
 
